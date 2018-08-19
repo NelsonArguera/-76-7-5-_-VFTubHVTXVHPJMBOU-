@@ -19,9 +19,9 @@ public final class AESAlgorithm {
     private static final String ALGO = "AES";
     private static final byte[] keyValue =
             new byte[]{'T', 'h', 'e', 'B', 'e', 's', 't', 'S', 'e', 'c', 'r', 'e', 't', 'K', 'e', 'y'};
-    public String damn;
+
     
-    //dxweferwofwbuwo
+
     
      /**
      * Encrypt a string with AES algorithm.

@@ -26,7 +26,7 @@ public class Expo {
 //        call.setLocationRelativeTo(null);
 //        Maps call = new Maps();
 //        call.setVisible(true);
-        
+        //dickckckkckckc
       dashboard call = new dashboard();
       call.setVisible(true);
       call.setLocationRelativeTo(null);
